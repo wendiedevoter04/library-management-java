@@ -1,4 +1,4 @@
-PROJECT 3 — Library Management System
+Library Management System
 
 This is an object-oriented Java project that simulates a simple library management system. It is built to demonstrate how real-world systems can be modeled using classes, objects and collections.
 
