@@ -12,7 +12,7 @@ It is designed as a foundational simulation of how library systems organize and 
 
 ## Key features
 
-!. Add books to the system
+1. Add books to the system
 2. Store books using a dynamic list structure
 3. Display all available books
 4. Track basic availability status
